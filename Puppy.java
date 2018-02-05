@@ -7,7 +7,7 @@ public class Puppy extends Dog {
         System.out.println("Puppy::barkAt(Dog)");
     }
 
-    public void barkAt(Puppy d) {
+    public void barkAt(Puppy p) {
         System.out.println("Puppy::barkAt(Puppy)");
     }
 }

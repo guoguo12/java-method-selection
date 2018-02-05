@@ -7,7 +7,7 @@ public class Animal {
         System.out.println("Animal::barkAt(Dog)");
     }
 
-    public void barkAt(Puppy d) {
+    public void barkAt(Puppy p) {
         System.out.println("Animal::barkAt(Puppy)");
     }
 }
